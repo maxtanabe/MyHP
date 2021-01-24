@@ -6,6 +6,11 @@ body {
 
 a {
   text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color:pink;
 }
 
 
@@ -107,6 +112,7 @@ header {
   margin-top: 0.1px;
   color: black;
   float: left;
+  padding-left: 50px;
 }
 
 .header-right h2 {
@@ -114,6 +120,7 @@ header {
   margin-top: 0.1px;
   color: black;
   float: right;
+  padding-right: 80px;
 }
 
 
