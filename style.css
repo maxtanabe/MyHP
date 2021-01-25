@@ -168,6 +168,11 @@ footer .container h2 {
 
 /* profile */
 
+.about {
+  display: flex;
+  justify-content: center;
+}
+
 .bottom-wrapper {
   margin-bottom: 200px;
 }
